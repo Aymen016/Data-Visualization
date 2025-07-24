@@ -1,6 +1,5 @@
-# 📊 Data Visualization & Analysis Portfolio
 
-Welcome to my Data Visualization repository! This collection showcases various data analysis and visualization projects using Python and Power BI. Each notebook explores different datasets, reveals insights, and presents visual narratives to understand the data better.
+<img width="1024" height="1246" alt="ChatGPT Image Jul 24, 2025, 01_12_32 PM" src="https://github.com/user-attachments/assets/fbf5a9ee-8b2d-4409-93dd-05f2046b144f" />
 
 ---
 
@@ -55,7 +54,7 @@ Bar charts, pie charts, heatmaps, line graphs, and Power BI reports — all visu
 
 **Aymen Baig**  
 📧 [ayemenbaig26@gmail.com](mailto:ayemenbaig26@gmail.com)  
-🔗 [GitHub Profile](https://github.com/Aymen016)
+🔗 [Aymen016](https://github.com/Aymen016)
 
 ---
 
