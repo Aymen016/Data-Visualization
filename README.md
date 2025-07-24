@@ -45,8 +45,25 @@
 
 ## 📈 Sample Visuals
 
-> *“A good visualization tells the story before you read the numbers.”*  
-Bar charts, pie charts, heatmaps, line graphs, and Power BI reports — all visualizations aim to uncover meaning from data.
+Here are a few examples from the data visualizations created in this project:
+
+### 🎻 Violin Plot of Product Prices by Category and Customer Country
+
+This visualization shows the distribution and density of product prices across different categories, grouped by customer country. It highlights pricing trends and variability within each category, helping identify outliers and regional differences.
+
+<img width="1022" height="623" alt="image" src="https://github.com/user-attachments/assets/733d3e5e-d3fc-40ec-b65c-cd686e2cb8fc" />
+
+### 🚗 Average Car Prices by Model
+
+This bar plot displays the average price of each car model. The x-axis represents different car models, while the y-axis shows their corresponding average prices. This visualization helps compare pricing trends across models and identify higher or lower-priced vehicles at a glance. 
+
+<img width="1035" height="496" alt="image" src="https://github.com/user-attachments/assets/5c4d5bce-cff5-4601-b21d-142a1928a5a2" />
+
+### 📈 Relationship Between Year, Mileage, and Other Features
+
+This pairplot explores the relationships between numerical features such as year, mileage, and price. It visually reveals how mileage tends to decrease with newer car models, and highlights correlations (or lack thereof) between other variables.
+
+<img width="904" height="862" alt="image" src="https://github.com/user-attachments/assets/7ea4ba84-a2e6-4eca-a57e-c9264c790c30" />
 
 ---
 
